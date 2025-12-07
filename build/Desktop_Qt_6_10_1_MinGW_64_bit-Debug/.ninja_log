@@ -1,0 +1,18 @@
+# ninja log v6
+33	114	7864064543604824	S:/Drive/Documents/Aquifer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83d383e5effe0a00
+1066	7887	7864062512010675	CMakeFiles/Aquifer.dir/Aquifer_autogen/mocs_compilation.cpp.obj	427aea8d443823bc
+78	1059	7864062510760670	Aquifer_autogen/timestamp	b9fcdc8fb9101ed4
+78	1059	7864062510760670	S:/Drive/Documents/Aquifer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Aquifer_autogen/mocs_compilation.cpp	b9fcdc8fb9101ed4
+78	1059	7864062510760670	Aquifer_autogen/mocs_compilation.cpp	b9fcdc8fb9101ed4
+78	1059	7864062510760670	S:/Drive/Documents/Aquifer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Aquifer_autogen/timestamp	b9fcdc8fb9101ed4
+1070	7900	7864062512050678	CMakeFiles/Aquifer.dir/main.cpp.obj	555330d1ff608313
+1074	7902	7864062512090682	CMakeFiles/Aquifer.dir/mainwindow.cpp.obj	cfefc4f010159c3e
+7902	12275	7864062580370944	Aquifer.exe	754d2b2bdf9475b6
+114	1095	7864064552744840	build.ninja	83f81a7060ab5276
+25	111	7864064554044927	S:/Drive/Documents/Aquifer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	83d383e5effe0a00
+127	330	7864064555065002	Aquifer_autogen/timestamp	b9fcdc8fb9101ed4
+127	330	7864064555065002	Aquifer_autogen/mocs_compilation.cpp	b9fcdc8fb9101ed4
+127	330	7864064555065002	S:/Drive/Documents/Aquifer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Aquifer_autogen/timestamp	b9fcdc8fb9101ed4
+127	330	7864064555065002	S:/Drive/Documents/Aquifer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/Aquifer_autogen/mocs_compilation.cpp	b9fcdc8fb9101ed4
+330	3523	7864064557104940	CMakeFiles/Aquifer.dir/mainwindow.cpp.obj	cfefc4f010159c3e
+3523	3830	7864064589024837	Aquifer.exe	754d2b2bdf9475b6

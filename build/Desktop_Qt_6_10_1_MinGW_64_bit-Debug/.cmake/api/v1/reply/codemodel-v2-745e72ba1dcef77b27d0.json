@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2b8229f5a971575556d3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Aquifer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Aquifer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aquifer-Debug-4e8213cc1c295a862fa3.json",
+					"name" : "Aquifer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aquifer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aquifer_autogen-Debug-da3e3d84a295758600bc.json",
+					"name" : "Aquifer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Aquifer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Aquifer_autogen_timestamp_deps-Debug-dd6f31a773970bda26a0.json",
+					"name" : "Aquifer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "S:/Drive/Documents/Aquifer/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "S:/Drive/Documents/Aquifer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
