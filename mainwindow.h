@@ -1,12 +1,13 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QMainWindow>
 #include <QFileDialog>
-#include <QtMultimediaWidgets/QtMultimediaWidgets>
+#include <QMainWindow>
+#include <QtMultimedia/QtAudio>
 #include <QtMultimedia/qtmultimediaglobal.h>
-#include <QtMultimedia/qtaudio.h>
-
+#include <QtMultimedia/QAudioDevice>
+#include <QtMultimedia/QAudioSink>
+#include <QtMultimediaWidgets/QtMultimediaWidgets>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -23,13 +24,13 @@ public:
     ~MainWindow();
 
 private slots:
-    void on_actionOpen_file_triggered();
+    void on_action_open_file_triggered();
 
-    void on_pushButton_Play_clicked();
+    void on_push_button_play_clicked();
 
-    void on_pushButton_Pause_clicked();
+    void on_push_button_pause_clicked();
 
-    void on_horizontalSlider_Volume_valueChanged(int value);
+    void on_horizontal_slider_volume_value_changed(int value);
 
 private:
     Ui::MainWindow *ui;
